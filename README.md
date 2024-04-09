@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sowmya061" alt="sowmya061" /></a> </p>
 
-- 🌱 I’m currently learning **Node Js**
+<!-- 🌱 I’m currently learning **Node Js**-->
 
 - 📫 How to reach me **sowmyaemani06@gmail.com**
 
